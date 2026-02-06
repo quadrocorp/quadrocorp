@@ -84,17 +84,17 @@
 <a id="projects-ru"></a>
 ## 🚀 Проекты
 
-### 🤖 Платформа управления Telegram ботами (В разработке)
+### 🤖 Платформа управления Telegram ботами Lumi (В разработке)
 
-**Описание:** Производственное full-stack приложение для оптимизации распределения ресурсов, сбора данных и централизованного управления жизненным циклом контейнеризированных Telegram ботов через красиво оформленную панель управления.
+- **Описание:** Производственное full-stack приложение для оптимизации распределения ресурсов, сбора данных и централизованного управления жизненным циклом контейнеризированных Telegram ботов через красиво оформленную панель управления.
 
-**Технологический стек:** React, TypeScript, Go, SQL.
+- **Технологический стек:** React, TypeScript, Go, SQL.
 
-**Цель проекта:** Создать профессиональное решение, демонстрирующее навыки системного архитектора, безопасного бэкенд-разработчика и креативного фронтенд-разработчика.
+- **Цель проекта:** Создать профессиональное решение, демонстрирующее навыки системного архитектора, безопасного бэкенд-разработчика и креативного фронтенд-разработчика.
 
-**Статус:** Активная разработка, альфа-версия
+- **Статус:** Активная разработка, альфа-версия
 
-**Ссылки:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
+- **Ссылки:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
 
 ---
 <a id="achievements-ru"></a>
@@ -134,23 +134,8 @@
 
 - **📧 Электронная почта:** [quadrocorp@hotmail.com](mailto:quadrocorp@hotmail.com)
 - **📍 Местоположение:** Симферополь, Республика Крым
-- **💻 GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **📱 Telegram:** [@yourusername](https://t.me/yourusername)
-
----
-
-<div align="center">
-  
-  ### 📊 Статистика GitHub
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadrocorp&show_icons=true&theme=radical)](https://github.com/quadrocorp)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)](https://github.com/quadrocorp)
-  
-  ### 💻 Наиболее используемые языки
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)
-  
-</div>
+- **💻 GitHub:** [github.com/yourusername](https://github.com/quadrocorp)
+- **📱 Telegram:** [@yourusername](https://t.me/qc_fb)
 
 ---
 ---
@@ -269,18 +254,3 @@ Currently have no corporate work experience. Focused on:
 - **📍 Location:** Simferopol, Republic of Crimea
 - **💻 GitHub:** [github.com/yourusername](https://github.com/quadrocorp)
 - **📱 Telegram:** [@yourusername](https://t.me/qc_fb)
-
----
-
-<div align="center">
-  
-  ### 📊 GitHub Stats
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadrocorp&show_icons=true&theme=radical)](https://github.com/quadrocorp)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)](https://github.com/quadrocorp)
-  
-  ### 💻 Most Used Languages
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)
-  
-</div>
