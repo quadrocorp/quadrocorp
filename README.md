@@ -1,23 +1,23 @@
 ## 📑 Оглавление (RU)
 
 - [💼 Краткое резюме](#summary-ru)
-- [🎓 Образование](#образование)
-- [💼 Опыт работы](#опыт-работы)
-- [🛠️ Навыки](#навыки)
-- [🚀 Проекты](#проекты)
-- [🏆 Достижения](#достижения)
-- [🎨 Хобби и интересы](#хобби-и-интересы)
-- [📫 Контакты](#контакты)
+- [🎓 Образование](#education-ru)
+- [💼 Опыт работы](#experience-ru)
+- [🛠️ Навыки](#skills-ru)
+- [🚀 Проекты](#projects-ru)
+- [🏆 Достижения](#achievements-ru)
+- [🎨 Хобби и интересы](#hobbies-and-interests-ru)
+- [📫 Контакты](#contact-ru)
 
 ## 📑 Table of Contents (EN)
 
-- [💼 Professional Summary](#professional-summary)
+- [💼 Professional Summary](#summary)
 - [🎓 Education](#education)
 - [💼 Experience](#experience)
 - [🛠️ Skills](#skills)
 - [🚀 Projects](#projects)
 - [🏆 Achievements](#achievements)
-- [🎨 Hobbies & Interests](#hobbies--interests)
+- [🎨 Hobbies & Interests](#hobbies-and-interests)
 - [📫 Contact](#contact)
 
 ---
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-stack+разработчик;Дизайнер+интерфейсов;Создаю+масштабируемые+решения" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-stack+developer;UI/UX+designer;Building+scalable+solutions" alt="Typing SVG" />
   
   <h1>qcorp</h1>
   <p>Full-stack junior разработчик | Дизайнер интерфейсов</p>
@@ -48,7 +48,7 @@
 Студент, увлечённый полным циклом разработки веб-приложений и десктопных инструментов. Увлекаюсь созданием сложных, хорошо структурированных систем и нахожу удовольствие в архитектурном проектировании. Постоянно развиваюсь в направлении full-stack разработки с сильным акцентом на UI/UX дизайн. Активно работаю с Linux системами, предпочитаю открытые технологии и нестандартные подходы к решению задач.
 
 ---
-
+<a id="education-ru"></a>
 ## 🎓 Образование
 
 **Студент** | Текущее обучение
@@ -57,7 +57,7 @@
 - Постоянное расширение технических знаний через онлайн-ресурсы и документацию
 
 ---
-
+<a id="experience-ru"></a>
 ## 💼 Опыт работы
 
 На данный момент не имею корпоративного опыта работы. Фокусируюсь на:
@@ -67,7 +67,7 @@
 - Постоянном совершенствовании навыков через практику
 
 ---
-
+<a id="skills-ru"></a>
 ## 🛠️ Навыки
 
 | Категория | Технологии |
@@ -77,35 +77,36 @@
 | **Backend** | Node.js, Express, Flask, Gin |
 | **Базы данных** | SQLite, MongoDB (изучаю), PostgreSQL (изучаю) |
 | **Инструменты** | Git, Vite, Figma, Lunacy |
-| **Операционные системы** | Linux (продвинутый пользователь), Windows |
-| **Контейнеризация** | Docker, Docker Compose |
+| **Операционные системы** | Linux (Arch, RPM-based), Windows |
+| **Контейнеризация** | Docker |
 
 ---
-
+<a id="projects-ru"></a>
 ## 🚀 Проекты
 
 ### 🤖 Платформа управления Telegram ботами (В разработке)
 
 **Описание:** Производственное full-stack приложение для оптимизации распределения ресурсов, сбора данных и централизованного управления жизненным циклом контейнеризированных Telegram ботов через красиво оформленную панель управления.
 
-**Технологический стек:** React, Node.js, Docker, PostgreSQL, Tailwind CSS
+**Технологический стек:** React, TypeScript, Go, SQL.
 
 **Цель проекта:** Создать профессиональное решение, демонстрирующее навыки системного архитектора, безопасного бэкенд-разработчика и креативного фронтенд-разработчика.
 
-**Статус:** Активная разработка
+**Статус:** Активная разработка, альфа-версия
+
+**Ссылки:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
 
 ---
-
+<a id="achievements-ru"></a>
 ## 🏆 Достижения
 
 - 🔥 Самостоятельное освоение множества технологий
-- 🐧 Глубокое понимание Linux систем и командной строки
-- 🎨 Развитые навыки визуального дизайна и 3D моделирования
+- 🎨 Навыки визуального дизайна и 3D моделирования
 - 💡 Способность находить нестандартные решения сложных задач
 - 📚 Постоянное самообразование и стремление к совершенству
 
 ---
-
+<a id="hobbies-and-interests-ru"></a>
 ## 🎨 Хобби и интересы
 
 ### 🎨 Цифровое творчество
@@ -128,7 +129,7 @@
 - 1C: Предприятие
 
 ---
-
+<a id="contact-ru"></a>
 ## 📫 Контакты
 
 - **📧 Электронная почта:** [quadrocorp@hotmail.com](mailto:quadrocorp@hotmail.com)
@@ -142,16 +143,12 @@
   
   ### 📊 Статистика GitHub
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-  
-  ### 🏆 GitHub Трофеи
-  
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=4)](https://github.com/yourusername)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadrocorp&show_icons=true&theme=radical)](https://github.com/quadrocorp)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)](https://github.com/quadrocorp)
   
   ### 💻 Наиболее используемые языки
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)
   
 </div>
 
@@ -160,7 +157,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-stack+developer;UI/UX+designer;Building+scalable+solutions;Linux+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-stack+developer;UI/UX+designer;Building+scalable+solutions" alt="Typing SVG" />
   
   <h1>qcorp</h1>
   <p>Full-stack junior developer | UI/UX designer | Linux enthusiast</p>
@@ -173,18 +170,18 @@
   <br><br>
   
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quadrocorp@hotmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/yourusername)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/qc_fb)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/quadrocorp)
 </div>
 
 ---
-
+<a id="summary"></a>
 ## 💼 Professional Summary
 
 Student passionate about full-stack development of web applications and desktop tools. I find creating complex, well-structured systems fascinating and enjoy architectural design challenges. Continuously developing skills in full-stack development with strong focus on UI/UX design. Actively working with Linux systems, preferring open technologies and unconventional problem-solving approaches.
 
 ---
-
+<a id="education"></a>
 ## 🎓 Education
 
 **Student** | Currently Enrolled
@@ -193,7 +190,7 @@ Student passionate about full-stack development of web applications and desktop 
 - Continuously expanding technical knowledge through online resources and documentation
 
 ---
-
+<a id="experience"></a>
 ## 💼 Experience
 
 Currently have no corporate work experience. Focused on:
@@ -203,7 +200,7 @@ Currently have no corporate work experience. Focused on:
 - Continuous skill improvement through hands-on practice
 
 ---
-
+<a id="skills"></a>
 ## 🛠️ Skills
 
 | Category | Technologies |
@@ -213,35 +210,36 @@ Currently have no corporate work experience. Focused on:
 | **Backend** | Node.js, Express, Flask, Gin |
 | **Databases** | SQLite, MongoDB (learning), PostgreSQL (learning) |
 | **Tools** | Git, Vite, Figma, Lunacy |
-| **Operating Systems** | Linux (advanced user), Windows |
-| **Containerization** | Docker, Docker Compose |
+| **Operating Systems** | Linux (Arch, RPM-based), Windows |
+| **Containerization** | Docker |
 
 ---
-
+<a id="projects"></a>
 ## 🚀 Projects
 
 ### 🤖 Telegram Bot Management Platform (In Development)
 
 **Description:** Production-grade full-stack application designed to optimize resource allocation, data collection, and centralize lifecycle control of containerized Telegram bots through a beautifully styled dashboard.
 
-**Tech Stack:** React, Node.js, Docker, PostgreSQL, Tailwind CSS
+**Tech Stack:** React, TypeScript, Go, SQL.
 
 **Project Goal:** Create a professional solution showcasing skills as a system architect, secure backend developer, and creative frontend developer.
 
-**Status:** Active Development
+**Status:** Active Development, alpha version
+
+**Links:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
 
 ---
-
+<a id="achievements"></a>
 ## 🏆 Achievements
 
 - 🔥 Self-taught mastery of multiple technologies
-- 🐧 Deep understanding of Linux systems and command line
-- 🎨 Advanced skills in visual design and 3D modeling
+- 🎨 Skills in visual design and 3D modeling
 - 💡 Ability to find unconventional solutions to complex problems
 - 📚 Continuous self-education and drive for excellence
 
 ---
-
+<a id="hobbies-and-interests"></a>
 ## 🎨 Hobbies & Interests
 
 ### 🎨 Digital Creativity
@@ -264,13 +262,13 @@ Currently have no corporate work experience. Focused on:
 - 1C: Enterprise
 
 ---
-
+<a id="contact"></a>
 ## 📫 Contact
 
 - **📧 Email:** [quadrocorp@hotmail.com](mailto:quadrocorp@hotmail.com)
 - **📍 Location:** Simferopol, Republic of Crimea
-- **💻 GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **📱 Telegram:** [@yourusername](https://t.me/yourusername)
+- **💻 GitHub:** [github.com/yourusername](https://github.com/quadrocorp)
+- **📱 Telegram:** [@yourusername](https://t.me/qc_fb)
 
 ---
 
@@ -278,29 +276,11 @@ Currently have no corporate work experience. Focused on:
   
   ### 📊 GitHub Stats
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-  
-  ### 🏆 GitHub Trophies
-  
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=4)](https://github.com/yourusername)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadrocorp&show_icons=true&theme=radical)](https://github.com/quadrocorp)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)](https://github.com/quadrocorp)
   
   ### 💻 Most Used Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌟 Visitor Counter
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
-  
-  ### 📅 Last Updated
-  
-  Last updated: `2026-02-06`
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrocorp&layout=compact&theme=radical)
   
 </div>
