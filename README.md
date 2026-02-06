@@ -134,8 +134,8 @@
 
 - **📧 Электронная почта:** [quadrocorp@hotmail.com](mailto:quadrocorp@hotmail.com)
 - **📍 Местоположение:** Симферополь, Республика Крым
-- **💻 GitHub:** [github.com/yourusername](https://github.com/quadrocorp)
-- **📱 Telegram:** [@yourusername](https://t.me/qc_fb)
+- **💻 GitHub:** [github.com/quadrocorp](https://github.com/quadrocorp)
+- **📱 Telegram:** [@qc_fb](https://t.me/qc_fb)
 
 ---
 ---
@@ -252,5 +252,5 @@ Currently have no corporate work experience. Focused on:
 
 - **📧 Email:** [quadrocorp@hotmail.com](mailto:quadrocorp@hotmail.com)
 - **📍 Location:** Simferopol, Republic of Crimea
-- **💻 GitHub:** [github.com/yourusername](https://github.com/quadrocorp)
-- **📱 Telegram:** [@yourusername](https://t.me/qc_fb)
+- **💻 GitHub:** [github.com/quadrocorp](https://github.com/quadrocorp)
+- **📱 Telegram:** [@qc_fb](https://t.me/qc_fb)
