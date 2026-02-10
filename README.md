@@ -30,9 +30,10 @@
   <h1>qcorp</h1>
   <p>Full-stack junior разработчик | Дизайнер интерфейсов</p>
   
-  <a href="#навыки"><img src="https://img.shields.io/badge/Навыки-10%2B_Технологий-9400D3"/></a>
-  <a href="#контакты"><img src="https://img.shields.io/badge/Местоположение-Республика_Крым-orange"/></a>
-  <a href="#образование"><img src="https://img.shields.io/badge/Статус-Студент-blue"/></a>
+  <a href="#skills-ru"><img src="https://img.shields.io/badge/Навыки-10%2B_Технологий-9400D3"/></a>
+  <a href="#projects-ru"><img src="https://img.shields.io/badge/Активных_проектов-2+-green"/></a>
+  <a href="#contacts-ru"><img src="https://img.shields.io/badge/Местоположение-Республика_Крым-orange"/></a>
+  <a href="#education-ru"><img src="https://img.shields.io/badge/Статус-Студент-blue"/></a>
   
   <br><br>
   
@@ -51,7 +52,7 @@
 <a id="education-ru"></a>
 ## 🎓 Образование
 
-**Студент** | Текущее обучение
+**Студент (4-ый курс. Квалификация Web-программист)** | Текущее обучение
 - Активно изучаю программирование и разработку ПО
 - Самостоятельное обучение с применением практических проектов
 - Постоянное расширение технических знаний через онлайн-ресурсы и документацию
@@ -83,6 +84,26 @@
 ---
 <a id="projects-ru"></a>
 ## 🚀 Проекты
+
+### 🌊 Wave: Генератор натуральных массивов числовых данных
+- **Описание:** Библиотека для генерации реалистичных числовых данных через принципы обработки сигналов. Вместо хаотичного рандома использует волны, математические функции и контролируемый «хаос» для создания естественно выглядящих графиков (латентность, метрики, сенсорные данные).
+
+- **Ключевые концепции:** 
+  - Волновые формы вместо случайных значений
+  - *Swing* — контролируемая вариативность вокруг тренда
+  - *Chaos* и *Chaos Ray* — редкие аномалии и всплески сбоев
+  - Разделение *границ* (min/max) и *целевого диапазона* (range)
+  - Генерация с использованием нескольких функций для сложных паттернов
+
+- **Технологический стек:** TypeScript, математические алгоритмы, модульная архитектура
+
+- **Цель проекта:** Продемонстрировать системное мышление через решение узкой, но болезненной проблемы фронтенд-разработки — создание правдоподобных демо-данных без ручной настройки.
+
+- **Статус:** Активная разработка, концепция утверждена
+
+- **Лицензия:** MIT
+
+- **Ссылки:** [github.com/quadrocorp/wave](https://github.com/quadrocorp/wave)
 
 ### 🤖 Платформа управления Telegram ботами Lumi (В разработке)
 
@@ -148,9 +169,9 @@
   <p>Full-stack junior developer | UI/UX designer | Linux enthusiast</p>
   
   <a href="#skills"><img src="https://img.shields.io/badge/Skills-10%2B_Technologies-9400D3"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Active_projects-2+-green"/></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Location-Republic_of_Crimea-orange"/></a>
   <a href="#education"><img src="https://img.shields.io/badge/Status-Student-blue"/></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/Linux-Expert-green"/></a>
   
   <br><br>
   
@@ -202,17 +223,38 @@ Currently have no corporate work experience. Focused on:
 <a id="projects"></a>
 ## 🚀 Projects
 
+### 🌊 Wave: Naturalistic Mock Data Generation
+
+- **Description:** Library for generating realistic numeric datasets using signal processing principles. Replaces chaotic randomness with waveforms, mathematical functions, and controlled "chaos" to produce naturally-looking charts (latency, metrics, sensor data).
+
+- **Core Concepts:**
+  - Waveforms over pure randomness
+  - *Swing* — bounded variance around trend lines
+  - *Chaos* and *Chaos Ray* — rare anomalies and failure bursts
+  - Separation of *bounds* (min/max) vs. *target range* (range)
+  - Multi-Function Application for complex patterns
+
+- **Tech Stack:** TypeScript, mathematical algorithms, modular architecture
+
+- **Project Goal:** Demonstrate systems thinking by solving a narrow but painful frontend problem — creating believable mock data without manual tweaking.
+
+- **Status:** Active development, concept finalized
+
+- **License:** MIT
+
+- **Links:** [github.com/quadrocorp/wave](https://github.com/quadrocorp/wave)
+
 ### 🤖 Telegram Bot Management Platform (In Development)
 
-**Description:** Production-grade full-stack application designed to optimize resource allocation, data collection, and centralize lifecycle control of containerized Telegram bots through a beautifully styled dashboard.
+- **Description:** Production-grade full-stack application designed to optimize resource allocation, data collection, and centralize lifecycle control of containerized Telegram bots through a beautifully styled dashboard.
 
-**Tech Stack:** React, TypeScript, Go, SQL.
+- **Tech Stack:** React, TypeScript, Go, SQL.
 
-**Project Goal:** Create a professional solution showcasing skills as a system architect, secure backend developer, and creative frontend developer.
+- **Project Goal:** Create a professional solution showcasing skills as a system architect, secure backend developer, and creative frontend developer.
 
-**Status:** Active Development, alpha version
+- **Status:** Active Development, alpha version
 
-**Links:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
+- **Links:** [front-end](https://github.com/quadrocorp/lumi) | [back-end](https://github.com/quadrocorp/lumicore)
 
 ---
 <a id="achievements"></a>
